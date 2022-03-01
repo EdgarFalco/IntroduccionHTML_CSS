@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: rgb(30, 156, 30);
+}
+
+body{
+    max-width: 900px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span{
+    color: rgb(197, 111, 54);
+}
+
+h2{
+    color: #6ea319;
+    border-bottom: #a7b88c 1px solid;    
+}
+
+section{
+    border: #d3d3d3 1px solid;    
+    margin: 20px 20px 10px 140px;  
+}
+
+h3{
+    color: rgb(197, 111, 54);
+}
+
+nav{
+    float: left;   
+}
